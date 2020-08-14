@@ -1,4 +1,6 @@
-### Hi This Is Neal 👋
+### Hi This Is Neal 👋👨🏼‍💻
+
+---
 
 <!--
 **NealWills/NealWIlls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +21,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NealWills)
+
+<img src="https://github.com/NealWills/NealWIlls/blob/master/banner.png?raw=true" alt="Hello Neal">
+
