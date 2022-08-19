@@ -1,4 +1,4 @@
-<img src="https://github.com/NealWills/NealWIlls/blob/master/banner.png?raw=true" alt="Hello Neal">
+<img src="https://github.com/NealWills/NealWIlls/blob/master/bannerV3.png?raw=true" alt="Hello Neal">
 
 ---
 
