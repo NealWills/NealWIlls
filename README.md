@@ -16,7 +16,7 @@ Recently, Django & Flutter Studying, **[DjangoStudy](https://github.com/NealWill
 
 ## How Can You Found Me  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Study notes are placed <a href="https://www.jianshu.com/u/ea50500bf4c3">JianShu</a> or <a href="https://www.yuque.com/nanziyaonulibenpao">YuQue</a> 
-- Email: nealwills93@gmail.com
+- Email: aoiiiiyuki@outlook.com
 - Blog: www.coderneal.com (loading)
 - QQ：358039517 or WeChat: CoderNeal
  
